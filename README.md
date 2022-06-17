@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmemory&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmemory&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmemory&layout=compact)
 <!--
 **devmemory/devmemory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
