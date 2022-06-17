@@ -1,5 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=#c8e6c9&height=300&section=header&text=capsule%20render&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmemory&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmemory&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmemory&layout=compact&theme=dracula)
 <!--
 **devmemory/devmemory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
