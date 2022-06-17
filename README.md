@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Devmemory)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=#c8e6c9&height=200&text=Devmemory&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmemory&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmemory&layout=compact&theme=dracula)
 <!--
